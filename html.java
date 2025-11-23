@@ -1,13 +1,8 @@
-
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>
-    <h2>Shopping System Login</h2>
-<form>
-    Username: <input type="text"><br><br>
-    Password: <input type="password"><br><br>
-  <button>Login</button>
-</form>
+<h2>Products Page</h2>
+<p>Products are listed in the console output when running Java program.</p>
 </body>
 </html>
 
