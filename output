@@ -1,0 +1,26 @@
+Enter Username: user1
+Enter Password: 123
+
+LOGIN SUCCESSFUL!
+
+1. View Products
+2. Add to Cart
+3. Place Order
+4. Exit
+Choose option: 1
+
+===== PRODUCTS AVAILABLE =====
+1. Laptop - ₹45000.0
+2. Headphones - ₹1500.0
+3. Keyboard - ₹700.0
+==============================
+
+Choose option: 2
+Enter Product ID to add: 3
+Enter Quantity: 2
+
+Product Added to Cart!
+
+Choose option: 3
+Order Placed Successfully!
+Total Amount: ₹1400.0
